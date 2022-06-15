@@ -1,0 +1,138 @@
+<h2>Status</h2>
+<table width="1000" cellspacing=0 cellpadding=1 border=0>
+<tr bgcolor=lightGray>
+<td width="400" valign="center">
+<b>Function</b>
+</td>
+<td width="100" valign="center" align="center">
+<b>Current</b>
+<br><b>Status</b></br>
+</td>
+<td width="400" valign="center" align="center">
+<b>Off to On</b>
+</td>
+<td width="400" valign="center" align="center">
+<b>Previous On</b>
+</td>
+<td width="400" valign="center" align="center">
+<b>Previos Off</b>
+</td>
+<td width="400" valign="center" align="center">
+<b>Duration</b>
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="400" valign="center">
+<b>Array On Utility</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-13 00:00:58.947524265 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+0s
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="400" valign="center">
+<b>Generator Running</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-13 00:00:58.947524265 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+0s
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="400" valign="center">
+<b>Ctrl Bldg On Utility</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-13 00:00:58.947524265 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+0s
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="400" valign="center">
+<b>Ctrl Bldg on Generator</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-13 00:00:58.947524265 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+0s
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="400" valign="center">
+<b>Array On Generator</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-13 00:00:58.947524265 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+0s
+</td>
+</tr>
+
+</table>
+n Generator</b>
+</td>
+<td width="100" valign="center" align="right" style="color:red"><b>ON</b></td>
+<td width="100" valign="center" align="right">
+2017-05-10 16:22:34.183805247 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+2017-05-10 09:46:04.450449901 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+2017-05-10 16:20:34.118703468 -0700 PDT
+</td>
+<td width="400" valign="center" align="right">
+6h34m29.668253567s
+</td>
+</tr>
+
+</table>

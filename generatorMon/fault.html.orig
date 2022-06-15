@@ -1,0 +1,110 @@
+<h2>Fault</h2>
+<table width="650" cellspacing=0 cellpadding=1 border=0>
+<tr bgcolor=lightGray>
+<td width="500" valign="center">
+<b>Function</b>
+</td>
+<td width="100" valign="center" align="center">
+<b>Current</b>
+<br><b>Status</b></br>
+</td>
+<td width="400" valign="center" align="center">
+<b>Last On</b>
+</td>
+<td width="400" valign="center" align="center">
+<b>Last Off</b>
+</td>
+<td width="200" valign="center" align="center">
+<b>Duration</b>
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="500" valign="center">
+<b>Low Oil Pressure</b>
+</td>
+<td width="100" valign="center" align="right">
+<b>OFF</b></td>
+<td width="400" valign="center" align="right">
+2016-04-28T08:10:15
+</td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:20:30
+</td>
+<td width="200" valign="center" align="right">
+1d 01:10:15
+</td>
+</tr>
+
+<tr bgcolor=lightBlue>
+<td width="500" valign="center">
+<b>High Engine Temp</b>
+</td>
+<td width="100" valign="center" align="right">
+<b>OFF</b></td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:30:11
+</td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:40:11
+</td>
+<td width="200" valign="center" align="right">
+00:10:00
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="500" valign="center">
+<b>Overspeed</b>
+</td>
+<td width="100" valign="center" align="right">
+<b>OFF</b></td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="400" valign="center" align="right">
+
+</td>
+<td width="200" valign="center" align="right">
+
+</td>
+</tr>
+
+<tr bgcolor=lightBlue>
+<td width="500" valign="center">
+<b>Overcrank</b>
+</td>
+<td width="100" valign="center" align="right">
+<b>OFF</b></td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:30:11
+</td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:40:11
+</td>
+<td width="200" valign="center" align="right">
+00:10:00
+</td>
+</tr>
+
+<tr bgcolor=white>
+<td width="500" valign="center">
+<b>Not In Auto</b>
+</td>
+<td width="100" valign="center" align="right">
+<b>OFF</b></td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:30:11
+</td>
+<td width="400" valign="center" align="right">
+2016-04-29T09:40:11
+</td>
+<td width="200" valign="center" align="right">
+00:10:00
+</td>
+</tr>
+
+
+</table>
+
+

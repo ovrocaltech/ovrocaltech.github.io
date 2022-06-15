@@ -1,0 +1,1 @@
+<h2>Last Read Record - UTC: {{.UTC}}; LST: {{.LAST}}; MJD: {{.MJD}}</h2>
