@@ -1,7 +1,0 @@
-#!/bin/csh
-#
-
-set tm = `cat time.dat`
-echo $tm
-
-sed "s/CTIME/${tm}/" index.html >
